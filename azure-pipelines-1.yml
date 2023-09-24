@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: {vmImage: Deepa Pool}
+pool: Deepa Pool
 
 steps:
 - task: NodeTool@0
